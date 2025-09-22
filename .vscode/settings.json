@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "./.venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "jupyter.defaultKernel": "./.venv/bin/python"
+}
+
